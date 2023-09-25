@@ -1,0 +1,14 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "## Studet grade generator Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below:    - A > 79   - B - 60 to 79   - C -  59 to 49   - D - 40 to 49   - E - less 40.",
+  "main": "grade-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
